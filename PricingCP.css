@@ -5,7 +5,7 @@
   justify-content: center;
   height: 100vh;
   text-align: center;
-  background-image: url("/default.jpg");
+  background-image: url("default.jpg");
   background-size: cover;
   background-position: center;
 }
