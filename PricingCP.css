@@ -6,7 +6,7 @@
   height: 100vh;
   text-align: center;
   background-image: url("default.jpg");
-  background-size: cover;
+  background-size: contain;
   background-position: center;
 }
 
